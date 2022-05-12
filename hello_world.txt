@@ -1,5 +1,12 @@
+<<<<<<< Updated upstream
 Hello world
 Bonjour
 123456
 7890
-567
+
+hola
+
+=======
+hello world
+again
+>>>>>>> Stashed changes

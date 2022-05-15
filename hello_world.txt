@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 Hello world
 Bonjour
 123456
@@ -12,10 +11,3 @@ $$$$$$$$$$$$$$$$$$$$
 $*$*$
 
 ch for feature
-
-hola
-hola
-=======
-hello world
-again
->>>>>>> Stashed changes
